@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cb154c16a5a8847fab9b0efd71d4d96c
+guid: 218e8365ce70c4339ad8ab7ffeb760d6
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638513174547861060
+  platformSettingsDirtyTick: 638513633594182290
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Arrow
+  - name: Enemy
     originalName: 
-    pivot: {x: 0.33688274, y: 0.5005391}
-    alignment: 9
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 31
-      height: 32
-    spriteID: 3d75b4891e84940c2a036aae0b784462
+      width: 43
+      height: 47
+    spriteID: 77a9fbe19f463410292433ce24f45caf
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,20 +144,20 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 321346949
-    name: Arrow
+    guid: -249133646
+    name: Enemy
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Arrow
+    - name: Enemy
       frameIndex: 0
       cellRect:
-        x: 1
-        y: 0
-        width: 31
-        height: 32
-      spriteId: 3d75b4891e84940c2a036aae0b784462
+        x: 11
+        y: 3
+        width: 43
+        height: 47
+      spriteId: 77a9fbe19f463410292433ce24f45caf
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -224,4 +224,4 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 32, y: 32}
+  canvasSize: {x: 64, y: 64}

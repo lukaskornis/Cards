@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 65b29421b4f4742d095ed45b5bb2ee9f
+guid: cb154c16a5a8847fab9b0efd71d4d96c
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638513209884682610
+  platformSettingsDirtyTick: 638513174547861060
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Player
+  - name: SelectionLineArrow
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
+    pivot: {x: 0.48387095, y: 0}
+    alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 59
-      height: 59
-    spriteID: 918e29568b5d6444eb141b67d4f2ba53
+      width: 31
+      height: 32
+    spriteID: 2767158094b69414cbcf7521c8cac6f4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,20 +144,20 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1687901567
-    name: Player
+    guid: 572719739
+    name: SelectionLineArrow
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Player
+    - name: SelectionLineArrow
       frameIndex: 0
       cellRect:
         x: 1
-        y: 4
-        width: 59
-        height: 59
-      spriteId: 918e29568b5d6444eb141b67d4f2ba53
+        y: 0
+        width: 31
+        height: 32
+      spriteId: 2767158094b69414cbcf7521c8cac6f4
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -224,4 +224,4 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 64, y: 64}
+  canvasSize: {x: 32, y: 32}
