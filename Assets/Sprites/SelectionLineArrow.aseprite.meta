@@ -123,7 +123,7 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: SelectionLineArrow
     originalName: 
-    pivot: {x: 0.48387095, y: 0}
+    pivot: {x: 0.32352015, y: 0.4703343}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:

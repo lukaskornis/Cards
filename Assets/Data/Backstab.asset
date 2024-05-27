@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   title: Epilepsy
   description: take 1 damage for each eye
-  image: {fileID: -1547430254299137991, guid: 0d51304876500464fb5ea972629e5942, type: 3}
+  image: {fileID: 8485758259462131584, guid: 0d51304876500464fb5ea972629e5942, type: 3}
   cost: 1
   damage: 2
   canChooseTarget: 1
